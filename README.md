@@ -82,9 +82,7 @@ from bs4 import BeautifulSoup as soup
 import pandas as pd
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.2.JPG?raw=true)
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.2.1.JPG?raw=true)
 
 
 
